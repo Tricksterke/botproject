@@ -1,5 +1,5 @@
 {
-  "name": "hermit-md",
+  "name": "trickbot",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "trickbot;tricksterke;+254799605656;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "trickbot;tricksterke"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "trickbot;tricksterke;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "READ_MSG": {
       "description": "Read all messages",

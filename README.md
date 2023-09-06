@@ -1,192 +1,84 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Trickbot MD WhatsApp Bot</title>
-</head>
-<body>
-    <div class="header">
-        <h1>TRICKBOT MD WHATSAPP BOT</h1>
-        <p><em>Simple WhatsApp Multi Device WhatsApp bot</em></p>
-    </div>
+# Trickbot MD WhatsApp Bot
 
-    <div class="container">
-        <h2>Setup</h2>
-        <ol>
-            <li>Scan the QR and copy it</li>
-            <br>
-            <a href='https://hermit.adithyan.xyz/qr' target="_blank" class="button">Scan QR</a>
-        </ol>
-    </div>
+![GitHub stars](https://img.shields.io/github/stars/Tricksterke/trickbot-md?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Tricksterke/trickbot-md?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/Tricksterke/trickbot-md?style=for-the-badge)
 
-    <!-- DEPLOYMENT OPTIONS -->
-    <div class="container">
-        <h3>Deploy to:</h3>
+Welcome to the Trickbot MD WhatsApp Bot repository, a powerful WhatsApp Multi-Device bot for your messaging needs.
 
-        <!-- Heroku -->
-        <div>
-            <p>If you don't have an account on Heroku, create an account.</p>
-            <a href="https://signup.heroku.com/" target="_blank" class="button">Create Heroku Account</a>
-        </div>
+## Setup
 
-        <div>
-            <p>Now Deploy</p>
-            <a href="https://hermit.adithyan.xyz/deploy-heroku" target="_blank" class="button">DEPLOY to Heroku</a>
-        </div>
+1. **Scan the QR Code**: Scan the QR code below to set up the bot.
+   
+   [![SCAN QR](https://img.shields.io/badge/Scan_QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black)](https://hermit.adithyan.xyz/qr)
 
-        <!-- Koyeb -->
-        <div>
-            <p>If you don't have an account on Koyeb, create an account.</p>
-            <a href="https://app.koyeb.com/auth/signup" target="_blank" class="button">Create Koyeb Account</a>
-        </div>
+### Deploy to Heroku 
 
-        <div>
-            <p>Get <a href="https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL" target="_blank" class="underline">DATABASE_URL</a> and copy it.</p>
-            <p>Get Koyeb API key</p>
-            <a href="https://hermit.adithyan.xyz/deploy-koyeb" target="_blank" class="button">DEPLOY to Koyeb</a>
-        </div>
+1. **Create a Heroku Account**: If you don't have a Heroku account, [create one here](https://signup.heroku.com/).
 
-        <!-- Railway -->
-        <div>
-            <p>If you don't have an account on Railway, create an account.</p>
-            <a href="https://railway.app/login" target="_blank" class="button">Create Railway Account</a>
-        </div>
+   [![Heroku](https://img.shields.io/badge/Create-Heroku-black?style=for-the-badge&logo=heroku&logoColor=white)](https://signup.heroku.com/)
 
-        <div>
-            <p>Now Deploy</p>
-            <a href="https://railway.app/template/q20OfH?referralCode=b9IKyc" target="_blank" class="button">DEPLOY to Railway</a>
-        </div>
-    </div>
+3. **Deploy**: Deploy the bot to Heroku.
 
-    <div class="container">
-        <h2>Support Me</h2>
-        <p>If you find this project helpful and would like to support my efforts, you can show your appreciation in three ways:</p>
-        <ul>
-            <li>
-                <strong>Buy Me a Coffee:</strong> Your support will help me stay motivated and continue working on exciting projects like this one.
-                <div>
-                    <a href="https://www.buymeacoffee.com/yourusername" class="button">Buy Me Coffee</a>
-                </div>
-            </li>
-            <li>
-                <strong>Donate USDT (Tether) Crypto:</strong> You can also support me by donating crypto directly to my USDT wallet. Your contribution will go a long way in helping me improve and maintain this project.
-                <div>
-                    Crypto Wallet Address: <code>0x816a82f51b45e97ffeff60e177ae79f5ae971efb</code>
-                </div>
-            </li>
-        </ul>
-    </div>
+   [![DEPLOY](https://img.shields.io/badge/DEPLOY-Heroku-black?style=for-the-badge&logo=heroku&logoColor=white)](https://hermit.adithyan.xyz/deploy-heroku)
 
-    <!-- Contact Section -->
-    <div class="contact">
-        <div class="container">
-            <h2>Contact</h2>
-            <p>Stay connected with us on social media:</p>
-            <div class="social-buttons">
-                <a href="https://api.whatsapp.com/send?phone=yourphonenumber" target="_blank" class="social-button whatsapp">WhatsApp</a>
-                <a href="https://t.me/yourtelegram" target="_blank" class="social-button telegram">Telegram</a>
-                <a href="https://twitter.com/yourtwitter" target="_blank" class="social-button twitter">Twitter</a>
-                <a href="https://www.youtube.com/yourchannel" target="_blank" class="social-button youtube">YouTube</a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Trickbot MD WhatsApp Bot</title>
-</head>
-<body>
-    <div class="header">
-        <h1>TRICKBOT MD WHATSAPP BOT</h1>
-        <p><em>Simple WhatsApp Multi Device WhatsApp bot</em></p>
-    </div>
+### Deploy to Koyeb 
 
-    <div class="container">
-        <h2>Setup</h2>
-        <ol>
-            <li>Scan the QR and copy it</li>
-            <br>
-            <a href='https://hermit.adithyan.xyz/qr' target="_blank" class="button">Scan QR</a>
-        </ol>
-    </div>
+1. **Create a Koyeb Account**: If you don't have a Koyeb account, [create one here](https://app.koyeb.com/auth/signup).
 
-    <!-- DEPLOYMENT OPTIONS -->
-    <div class="container">
-        <h3>Deploy to:</h3>
+   [![koyeb](https://img.shields.io/badge/Create-Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/auth/signup)
 
-        <!-- Heroku -->
-        <div>
-            <p>If you don't have an account on Heroku, create an account.</p>
-            <a href="https://signup.heroku.com/" target="_blank" class="button">Create Heroku Account</a>
-        </div>
+3. **Get Database URL**: Obtain the [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it.
 
-        <div>
-            <p>Now Deploy</p>
-            <a href="https://hermit.adithyan.xyz/deploy-heroku" target="_blank" class="button">DEPLOY to Heroku</a>
-        </div>
+4. **Get Koyeb API Key**: Obtain the [Koyeb API key](https://app.koyeb.com/account/api).
 
-        <!-- Koyeb -->
-        <div>
-            <p>If you don't have an account on Koyeb, create an account.</p>
-            <a href="https://app.koyeb.com/auth/signup" target="_blank" class="button">Create Koyeb Account</a>
-        </div>
+2. **Deploy**: Deploy the bot to Koyeb.
 
-        <div>
-            <p>Get <a href="https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL" target="_blank" class="underline">DATABASE_URL</a> and copy it.</p>
-            <p>Get Koyeb API key</p>
-            <a href="https://hermit.adithyan.xyz/deploy-koyeb" target="_blank" class="button">DEPLOY to Koyeb</a>
-        </div>
+   [![DEPLOY](https://img.shields.io/badge/DEPLOY-Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white)](https://hermit.adithyan.xyz/deploy-koyeb)
 
-        <!-- Railway -->
-        <div>
-            <p>If you don't have an account on Railway, create an account.</p>
-            <a href="https://railway.app/login" target="_blank" class="button">Create Railway Account</a>
-        </div>
+### Deploy to Railway 
 
-        <div>
-            <p>Now Deploy</p>
-            <a href="https://railway.app/template/q20OfH?referralCode=b9IKyc" target="_blank" class="button">DEPLOY to Railway</a>
-        </div>
-    </div>
+1. **Create a Railway Account**: If you don't have a Railway account, [create one here](https://railway.app/login).
 
-    <div class="container">
-        <h2>Support Me</h2>
-        <p>If you find this project helpful and would like to support my efforts, you can show your appreciation in three ways:</p>
-        <ul>
-            <li>
-                <strong>Buy Me a Coffee:</strong> Your support will help me stay motivated and continue working on exciting projects like this one.
-                <div>
-                    <a href="https://www.buymeacoffee.com/yourusername" class="button">Buy Me Coffee</a>
-                </div>
-            </li>
-            <li>
-                <strong>Donate USDT (Tether) Crypto:</strong> You can also support me by donating crypto directly to my USDT wallet. Your contribution will go a long way in helping me improve and maintain this project.
-                <div>
-                    Crypto Wallet Address: <code>0x816a82f51b45e97ffeff60e177ae79f5ae971efb</code>
-                </div>
-            </li>
-        </ul>
-    </div>
+   [![railway](https://img.shields.io/badge/Create-Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/login)
 
-    <!-- Contact Section -->
-    <div class="contact">
-        <div class="container">
-            <h2>Contact</h2>
-            <p>Stay connected with us on social media:</p>
-            <div class="social-buttons">
-                <a href="https://api.whatsapp.com/send?phone=yourphonenumber" target="_blank" class="social-button whatsapp">WhatsApp</a>
-                <a href="https://t.me/yourtelegram" target="_blank" class="social-button telegram">Telegram</a>
-                <a href="https://twitter.com/yourtwitter" target="_blank" class="social-button twitter">Twitter</a>
-                <a href="https://www.youtube.com/yourchannel" target="_blank" class="social-button youtube">YouTube</a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+2. **Deploy**: Deploy the bot to Railway.
+
+   [![DEPLOY](https://img.shields.io/badge/DEPLOY-Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/template/q20OfH?referralCode=b9IKyc)
+
+For detailed setup instructions, visit our [GitHub Wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki).
+
+## Contact
+
+- **WhatsApp Group**: Join our WhatsApp group for support and discussions.
+
+   [![WhatsApp Group](https://img.shields.io/badge/WhatsApp%20Group-Chat-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Czc4zb42smmHIkso3Od0ir)
+
+- **Telegram**: Contact me on Telegram for inquiries and assistance.
+
+   [![Telegram](https://img.shields.io/badge/Contact%20Me%20on-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YourTelegramUsername)
+
+- **YouTube**: Check out our YouTube channel for tutorials and updates.
+
+   [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
+
+- **Twitter**: Follow us on Twitter for the latest news and announcements.
+
+   [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)
+
+## Support
+
+If you find this project helpful and want to support our efforts, you can:
+
+1. **Buy Me a Coffee**: Your support keeps us motivated.
+
+  <a href="YOUR_BUY_ME_A_COFFEE_LINK">
+  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="30" width="120" style="margin-left: 60px;">
+</a>
+
+
+2. **Donate Crypto**: Contribute to our project by donating cryptocurrency (BTC) to this address: `bc1q2le0uv8kyrkfnetuxez8tzcmu5zqz2vn5j7hzl`.
+
+![Kenyan Flag](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiyDUAuAs2z8omRdMRX7Ta4Dm5G7Wi9hstnnHzupwqA&s) :kenya:
+
+Made in Kenya with :heart: by Trickster Technology :computer:
